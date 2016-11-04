@@ -36,3 +36,4 @@ public class Credit {
     }
 }//class
 
+// Please add comments to identify constructors and define purpose/usage of methods/instance variables
